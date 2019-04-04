@@ -55,4 +55,5 @@ varViewFileName|(eg:myfilename1)
 **3)** Run **GenerateTPT.py** in the same folder location and pass .csv file name which was saved in above step.
 ********************************
 > Your TPT files will be created in a auto-generated folder, whose name is as per the timestamp the code was run on.
+
 **4)** Just now need to change the *VARCHAR SIZE* as per your requirement.
